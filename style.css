@@ -1,0 +1,19 @@
+body {
+background-color: yellowgreen;
+}
+
+.heading {
+color: turquoise;
+width: 80%;
+background-color: tomato;
+}
+
+.name_of_objects,#result_object_name,#result_accuracy_name {
+color: red;
+}
+
+#camera,#result {
+border:2px dotted;
+width: 350px;
+height: 250px;
+}
